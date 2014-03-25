@@ -1,0 +1,6 @@
+F:\Program Files (x86)\RocketDock\RocketDock.exe
+F:\Program Files (x86)\Tencent\QQ\QQProtect\Bin\QQProtect.exe
+F:\Program Files (x86)\baidu\Baidu Hi\BaiduHi.exe
+F:\Program Files (x86)\Evernote\Evernote\Evernote.exe
+F:\Program Files (x86)\Microsoft Office\Office15\OUTLOOK.EXE
+F:\Program Files (x86)\VanDyke Software\SecureCRT\SecureCRT.exe
