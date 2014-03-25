@@ -1,1 +1,12 @@
 A simple bat tool for start multi soft on windows.
+
+
+中文说明:
+
+一个简易的bat工具，用于启动多个程序。
+
+你可以将此工具添加在Window自启动任务中,或者每次执行它.
+
+workday.txt 包含了你想在工作日启动的程序，比如你的MSN,OUTLOOK等等.
+
+weekend.txt 包含了你想在周末启动的程序，比如你的QQ或者一些游戏软件.
